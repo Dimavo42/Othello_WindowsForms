@@ -17,6 +17,7 @@
         {
             return (i_CurrentName == FirstPlayer) ? SecondPlayer : FirstPlayer;
         }
-
     }
 }
+
+    
