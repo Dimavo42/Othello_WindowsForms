@@ -1,0 +1,16 @@
+C:\Users\Dima\source\repos\A23 Ex05 Dima 321241119 Ben 316601855\Ex05_Othello.UI\bin\Debug\Ex05_Othello.UI.exe.config
+C:\Users\Dima\source\repos\A23 Ex05 Dima 321241119 Ben 316601855\Ex05_Othello.UI\bin\Debug\Ex05_Othello.UI.exe
+C:\Users\Dima\source\repos\A23 Ex05 Dima 321241119 Ben 316601855\Ex05_Othello.UI\bin\Debug\Ex05_Othello.UI.pdb
+C:\Users\Dima\source\repos\A23 Ex05 Dima 321241119 Ben 316601855\Ex05_Othello.UI\bin\Debug\Ex05_Othello.Logic.dll
+C:\Users\Dima\source\repos\A23 Ex05 Dima 321241119 Ben 316601855\Ex05_Othello.UI\bin\Debug\Ex05_Othello.Logic.pdb
+C:\Users\Dima\source\repos\A23 Ex05 Dima 321241119 Ben 316601855\Ex05_Othello.UI\bin\Debug\Ex05_Othello.Logic.dll.config
+C:\Users\Dima\source\repos\A23 Ex05 Dima 321241119 Ben 316601855\Ex05_Othello.UI\obj\Debug\Ex05_Othello.UI.csproj.AssemblyReference.cache
+C:\Users\Dima\source\repos\A23 Ex05 Dima 321241119 Ben 316601855\Ex05_Othello.UI\obj\Debug\Ex05_Othello.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dima\source\repos\A23 Ex05 Dima 321241119 Ben 316601855\Ex05_Othello.UI\obj\Debug\Ex05_Othello.UI.FormGameSettings.resources
+C:\Users\Dima\source\repos\A23 Ex05 Dima 321241119 Ben 316601855\Ex05_Othello.UI\obj\Debug\Ex05_Othello.UI.FormOthelloGame.resources
+C:\Users\Dima\source\repos\A23 Ex05 Dima 321241119 Ben 316601855\Ex05_Othello.UI\obj\Debug\Ex05_Othello.UI.Properties.Resources.resources
+C:\Users\Dima\source\repos\A23 Ex05 Dima 321241119 Ben 316601855\Ex05_Othello.UI\obj\Debug\Ex05_Othello.UI.csproj.GenerateResource.cache
+C:\Users\Dima\source\repos\A23 Ex05 Dima 321241119 Ben 316601855\Ex05_Othello.UI\obj\Debug\Ex05_Othello.UI.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\A23 Ex05 Dima 321241119 Ben 316601855\Ex05_Othello.UI\obj\Debug\Ex05_Othello.UI.csproj.CopyComplete
+C:\Users\Dima\source\repos\A23 Ex05 Dima 321241119 Ben 316601855\Ex05_Othello.UI\obj\Debug\Ex05_Othello.UI.exe
+C:\Users\Dima\source\repos\A23 Ex05 Dima 321241119 Ben 316601855\Ex05_Othello.UI\obj\Debug\Ex05_Othello.UI.pdb

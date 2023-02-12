@@ -1,0 +1,7 @@
+C:\Users\Dima\source\repos\A23 Ex05 Dima 321241119 Ben 316601855\Ex05_Othello.Logic\bin\Debug\Ex05_Othello.Logic.dll.config
+C:\Users\Dima\source\repos\A23 Ex05 Dima 321241119 Ben 316601855\Ex05_Othello.Logic\bin\Debug\Ex05_Othello.Logic.dll
+C:\Users\Dima\source\repos\A23 Ex05 Dima 321241119 Ben 316601855\Ex05_Othello.Logic\bin\Debug\Ex05_Othello.Logic.pdb
+C:\Users\Dima\source\repos\A23 Ex05 Dima 321241119 Ben 316601855\Ex05_Othello.Logic\obj\Debug\Ex05_Othello.Logic.csproj.AssemblyReference.cache
+C:\Users\Dima\source\repos\A23 Ex05 Dima 321241119 Ben 316601855\Ex05_Othello.Logic\obj\Debug\Ex05_Othello.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\A23 Ex05 Dima 321241119 Ben 316601855\Ex05_Othello.Logic\obj\Debug\Ex05_Othello.Logic.dll
+C:\Users\Dima\source\repos\A23 Ex05 Dima 321241119 Ben 316601855\Ex05_Othello.Logic\obj\Debug\Ex05_Othello.Logic.pdb
